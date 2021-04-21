@@ -33,4 +33,4 @@ with open("WordprevalencesSupplementaryfilefirstsubmission.csv") as csvfile:
             and prev >= args.prevalence
             and word not in badwords
         ):
-            print(word)
+            print(word.upper())
