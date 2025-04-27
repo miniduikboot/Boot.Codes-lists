@@ -15,7 +15,7 @@ if args.safe:
     for badfile in badfiles:
         with open(badfile, "r") as f:
             for bad in f.readlines():
-                badwords.add(bad.strip())
+                badwords.add(bad.split(' ')[0].strip())
 
 print(
     """-- Word list for Boot.Codes: http://github.com/miniduikboot/Boot.Codes-lists

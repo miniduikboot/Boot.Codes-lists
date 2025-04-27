@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
-set -euo pipefail
+set -euxo pipefail
 
 for n in 6
 do
-    for p in 2.0 2.5
+    for p in 1.5 2.0 2.5
     do
         python processWordlist.py $n $p --safe > ../lists/words-$n-$p.txt
     done

@@ -125,3 +125,52 @@ unisex
 unsafe
 urinal
 vulgar
+
+# 1.5 additions
+assent # ascent
+blithe # blight
+breech # breach
+catnap # catnip
+cystic # ew
+eczema # ew
+fester # ew?
+hooter # lewd american restaurant chain
+larynx # too complicated
+lumbar # lumber
+mulled # mullet
+packer # slang?
+phlegm # ew
+porker # eh
+rectal # bum
+sawing # saving?
+slaved # not pc
+testes # balls
+
+afghan # potential racism trigger
+ailing # ew
+anemia # ew
+anemic # ew
+caress # uh
+carnal # uh
+dilate # uh
+floozy # uh
+harlot # uh
+hazing # uh
+hernia # ew
+hickup # uh
+hookup # uh
+maimed # uhh
+mooned # uh
+nudism # uh
+prozac # meds
+rapper # typo potential of raper
+sadism # uh
+seduce # uh
+sleazy # uh?
+squirt # ew
+stoner # 420
+sudoku # seppoku
+sultry # ew
+thrust # ew
+valium # meds
+
